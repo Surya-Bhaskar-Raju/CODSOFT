@@ -1,4 +1,3 @@
-# https://www.linkedin.com/pulse/creating-simple-to-do-list-application-python-guide-daniel-joseph-/
 
 def display_menu():
     print('Menu:')
