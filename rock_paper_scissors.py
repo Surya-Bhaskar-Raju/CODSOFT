@@ -12,8 +12,8 @@ def reset():
     b1['state']='active'
     b2['state']='active'
     b3['state']='active'
-    l1.config(text='Player       ')
-    l3.config(text='        Computer')
+    l1.config(text='PLAYER       ')
+    l3.config(text='        COMPUTER')
     l4.config(text='')
     
 def disable():
