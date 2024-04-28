@@ -88,7 +88,7 @@ b2.pack(side=LEFT,padx=20)
 b3=Button(f2,text='SCISSSORS',font=40,width=14,bd=2,command=isscissors)
 b3.pack(side=LEFT,padx=20)
 
-B=Button(root,text='RESET GAME',font=20,fg='white',bg='black',width=14,command=reset)
+B=Button(root,text='PLAY AGAIN',font=20,fg='white',bg='black',width=14,command=reset)
 B.pack(pady=50)
 
 root.mainloop()
